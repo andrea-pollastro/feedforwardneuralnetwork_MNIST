@@ -1,4 +1,4 @@
-# A Feed-Forward Neural Network implemented MATLAB
+# A Feed-Forward Neural Network implementation made with MATLAB
 This is a revision that I made in these days about the <i>Machine learning</i> exam's project I developed during the university one year ago.
 I've implemented a <b>Feed-Forward Neural Network</b> and I've tested the ANN on the <i>MNIST</i> dataset.
 
