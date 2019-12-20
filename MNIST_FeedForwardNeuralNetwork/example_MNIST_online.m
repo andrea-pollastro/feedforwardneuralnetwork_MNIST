@@ -5,6 +5,7 @@ clc
 loadPath;
 
 %% Importing MNIST dataset
+%%%% PLEASE DOWNLOAD train-images.idx3-ubyte from http://yann.lecun.com/exdb/mnist/ %%%%
 data = loadMNISTImages('train-images.idx3-ubyte')';
 labels = loadMNISTLabels('train-labels.idx1-ubyte');
 labels(labels == 0) = 10;
